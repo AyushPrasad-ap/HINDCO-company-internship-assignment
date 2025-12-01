@@ -6,7 +6,7 @@ This project was created as part of the **HINDCO / Jobringer.com** screening tes
 
 ## ⭐ Project Overview
 
-**My Review App** is a simple yet modern review management interface built using **React (Vite)** and **plain CSS**. It supports:
+**My Review App** is a simple yet modern review management interface built using **React (Vite)** and **responsive CSS**. It supports:
 
 - Adding user reviews
 - Selecting a rating (1–5)
@@ -15,7 +15,6 @@ This project was created as part of the **HINDCO / Jobringer.com** screening tes
 - Displaying all reviews dynamically
 - Showing the date in **dd/mm/yyyy** format
 - Fully responsive UI
-- Modern glassmorphism design
 
 ---
 
@@ -45,12 +44,6 @@ Reviews are immediately displayed in the right panel.
 
 - Two-column layout on laptop/desktop
 - Stacked layout on mobile
-
-### ✔ Modern Glass UI Design
-
-- Frosted glassmorphism cards
-- Blurred backgrounds
-- Smooth hover animations
 
 ---
 
@@ -139,10 +132,7 @@ This ensures complete persistence of the review list.
 The design uses **custom CSS** implementing:
 
 - Soft gradients
-- Transparent glass panes
-- Blurred backgrounds (`backdrop-filter`)
 - Responsive flex layouts
-- Smooth animation transitions
 
 The final UI is clean, professional, and modern.
 
