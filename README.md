@@ -196,10 +196,3 @@ If extended further, it can support authentication, backend APIs, or advanced UI
 **Ayush Prasad**
 
 Developed as part of the **HINDCO Executive Search Screening Assignment**.
-
----
-
-If you want, I can also prepare:
-✔ A PDF version of this README
-✔ A GitHub-ready commit message template
-✔ A professional project description for your portfolio
